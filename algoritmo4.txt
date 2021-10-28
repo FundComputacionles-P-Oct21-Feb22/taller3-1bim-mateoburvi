@@ -1,0 +1,6 @@
+1. Inicio
+2. Pedir es costo por minuto de telefono
+3. Pedir el numero de minutos de consumo 
+4. Calcular el costo total de minutos
+5. Mostrar en pantalla el costo total
+6. Fin 

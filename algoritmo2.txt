@@ -1,0 +1,7 @@
+1. Inicio 
+2. Pedir el Gasto del primer hijo 
+3. Pedir el gasto del segundo hijo 
+4. Pedir el gasto del tercer hijo 
+5. Sumar el valor de los gastos de los tres hijos 
+6. Presentar el valor total de gasto al usuario 
+7. Fin

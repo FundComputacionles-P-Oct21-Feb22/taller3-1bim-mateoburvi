@@ -1,0 +1,6 @@
+1. Inicio
+2. Presentar un mensaje pidiendo la base del triangulo 
+2. Presentar un mensaje pidiendo la altura del triangulo 
+3. calcular el area de el triangulo mediante la formula base*altura/2
+4. Presentar un mensaje con el valor calculado 
+5. Fin 

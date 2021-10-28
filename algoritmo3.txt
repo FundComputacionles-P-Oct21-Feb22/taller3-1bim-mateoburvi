@@ -1,0 +1,6 @@
+1. Inicio 
+2. Pedir el valor sobre el cual tiene que calcular la tabla de multiplicar
+3. Si el valor esta entre 2 y 6, continuo con el programa, caso contrario salgo del programa
+4. calculo la tabla
+5. presento la tabla
+6. Fin

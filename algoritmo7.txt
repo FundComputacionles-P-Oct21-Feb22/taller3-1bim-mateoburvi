@@ -1,0 +1,8 @@
+1. Inicio 
+2. Pedir el valor de kilovatio/hora
+3. Pedir el numero de kilovatios consumidos en el mes
+4. Pedir la edad del usuario 
+5. Calcular el valor total a pagar
+6. Si la edad del usuario es mayor a 65 descontar el 10%
+7. Mostrar en pantalla el valor a pagar
+8. Fin

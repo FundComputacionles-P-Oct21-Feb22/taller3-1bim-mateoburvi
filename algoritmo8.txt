@@ -1,0 +1,9 @@
+1. Inicio 
+2. Pedir el valor a pagar de Netflix
+3. Pedir el valor a pagar de YouTube Premium 
+4. Pedir el valor a pagar de Dropbox
+5. Pedir el valor a pagar de Spotify 
+6. Sumar todos los valores para calcular el valor total
+7. Si la persona es menor a 30 años se descuenta el 20%
+8. Mostrar el valor total en pantalla 
+9. Fin

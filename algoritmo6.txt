@@ -1,0 +1,6 @@
+1. Inicio 
+2. Pedir el monto total del prestamo
+3. Pedir ingresar el interes mensual a cobrar
+4. Calcular el interes del prestamo y el monto mensual de pago
+5. Mostrar en pantalla el monto mensual de pago
+6. Fin
